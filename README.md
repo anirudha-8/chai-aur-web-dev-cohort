@@ -13,14 +13,14 @@ This repository is organized into two **submodules**:
 - Contains solutions for **CSS Challenges** 🎨 and **JavaScript Challenges** 💻.  
 - Each challenge is documented separately with code and explanations.  
 
-📍 **Repo:** [cohort-assignments](https://github.com/your-username/cohort-assignments)  
+📍 **Repo:** [cohort-assignments](https://github.com/anirudha-8/cohort-assignments)  
 
 ### 2️⃣ **Articles** 📝  
 
 - Documenting my learnings from recorded videos and other topics in **blog/article format**.  
 - Articles are published on **Hashnode**, and this repo serves as a structured collection.  
 
-📍 **Repo:** [cohort-articles](https://github.com/your-username/cohort-articles)  
+📍 **Repo:** [cohort-articles](https://github.com/anirudha-8/cohort-articles)  
 
 ---
 
@@ -29,7 +29,7 @@ This repository is organized into two **submodules**:
 Clone this repository along with submodules:  
 
 ```bash
-git clone --recurse-submodules https://github.com/your-username/chai-aur-web-dev-cohort.git
+git clone --recurse-submodules https://github.com/anirudha-8/chai-aur-web-dev-cohort.git
 ```
 
 ---
