@@ -1,0 +1,3 @@
+[submodule "1.cohort-assignments"]
+	path = 1.cohort-assignments
+	url = https://github.com/anirudha-8/cohort-assignments.git
